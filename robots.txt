@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://obieshaim.pers.wang/sitemap.xml
